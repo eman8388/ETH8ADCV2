@@ -29,7 +29,7 @@ Simply copy [ETH8ADCV2.vst3](https://github.com/eman8388/ETH8ADCV2/blob/main/ETH
 
 ## How It Works
 
-This is a simple example of a **communication VST3 plugin** using **Berkeley Packet Filter (BPF)** to transmit and receive **raw Ethernet frames** through the **ETHlink8DAC** device.
+This is a simple example of a **communication VST3 plugin** using **Berkeley Packet Filter (BPF)** to transmit and receive **raw Ethernet frames** through the **ETHlink8ADC** device.
 
 1. Connect the device to your **local network**.
 2. Attach the **Ethernet adapter** to your computer.
