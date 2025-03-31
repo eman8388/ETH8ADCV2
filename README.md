@@ -58,7 +58,6 @@ The best setup for this communication method is a **simple Layer 2 Ethernet swit
   1. **Using third-party network libraries and drivers (Npcap)** – Easy to implement and works very well.
   2. **Developing a custom filter driver** to expose an IOControl interface to userspace – More complex, potentially more powerful, but with no significant performance gains over Npcap.
 
----
 
 ### The Big Question: **Why Not Just Use UDP & Sockets?**
 
