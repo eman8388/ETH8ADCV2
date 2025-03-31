@@ -3,7 +3,7 @@
 
 # ETH8ADCV2 VST3 Plug-In
 Open-source example of a communication .vst3 application for the **ETHlink8ADC** Ethernet audio interface. 
-Project repository: [ETHlink8ADC](https://github.com/eman8388/ETHlink8DAC).
+Project repository: [ETHlink8ADC](https://github.com/eman8388/ETHlink8ADC).
 
 **Built for macOS M-series machines.**
 
