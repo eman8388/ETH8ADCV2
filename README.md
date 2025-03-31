@@ -43,6 +43,10 @@ This is a simple example of a **communication VST3 plugin** using **Berkeley Pac
 
 The remaining UI elements are **self-explanatory** .
 
+### For Reaper USER
+    - In Reaper, VST preprocessing is default ENABLE, for obvius reason should be disable.
+    - When record the track, be sure to record the OUTPUT (post fx).
+
 ---
 
 ## 🛠️ Developer Insights
